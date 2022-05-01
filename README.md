@@ -5,3 +5,12 @@
 - docker pull bkimminich/juice-shop
 - docker pull pandrew/metasploit
 - docker pull usertaken/archlinux-pentest-lxde
+
+## Labs
+https://www.vulnhub.com/ 
+https://pentesterlab.com/
+http://sourceforge.net/projects/lampsecurity/
+http://www.dvwa.co.uk/
+
+## Useful for learning
+https://overthewire.org/wargames/
